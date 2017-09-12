@@ -1,14 +1,6 @@
 {
   "wallpapers": [
     {
-      "url": "https://github.com/dragodev94/wall-trident3/blob/master/pexels-photo-573316.jpeg?raw=true",
-      "name": "7"
-    },
-    {
-      "url": "https://github.com/dragodev94/wall-trident3/blob/master/pexels-photo-411085.jpeg?raw=true",
-      "name": "6
-    },
-    {
       "url": "https://github.com/dragodev94/wall-trident3/blob/master/pexels-photo-399188.jpeg?raw=true",
       "name": "5"
     },
@@ -27,6 +19,14 @@
     {
       "url": "https://github.com/dragodev94/wall-trident3/blob/master/pexels-photo-220071.jpeg?raw=true",
       "name": "1"
+    },
+    {
+      "url": "https://github.com/dragodev94/wall-trident3/blob/master/pexels-photo-573316.jpeg?raw=true",
+      "name": "7"
+    },
+    {
+      "url": "https://github.com/dragodev94/wall-trident3/blob/master/pexels-photo-411085.jpeg?raw=true",
+      "name": "6
     }
   ]
 }
